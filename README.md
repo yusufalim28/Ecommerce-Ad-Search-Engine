@@ -37,7 +37,7 @@ Dataset yang digunakan terdiri dari 10 dokumen pendek yang diambil dari iklan ot
 ## 🏃 Cara Menjalankan
 1. Clone repositori ini:
    ```bash
-
+   https://github.com/yusufalim28/Ecommerce-Ad-Search-Engine.git
 2. Instal library yang dibutuhkan:
    pip install Sastrawi scikit-learn pandas matplotlib
 3. Buka file Kelompok1.ipynb menggunakan Jupyter Notebook atau Google Colab.
